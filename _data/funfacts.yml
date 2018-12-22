@@ -1,12 +1,12 @@
-- counter: -
+- counter: 0
   icon: ion-ios-chatboxes-outline
   text: Active Members
-- counter: -
+- counter: 0
   icon: ion-ios-glasses-outline
   text: PhD students
-- counter: False
+- counter: 0
   icon: ion-ios-compose-outline
   text: Distinguished lecturers
-- counter: False
+- counter: 0
   icon: ion-ios-timer-outline
   text: Sponsors
