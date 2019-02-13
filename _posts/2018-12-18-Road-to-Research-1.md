@@ -14,7 +14,7 @@ permalink: /:year/:month/:day/:title.html
 #### Date:  18/12/18
 #### Time:  1-2pm
 #### Room:  Queens 1.18
-
+<br>
 
 ### Summary
 The lecturer briefly (in the 1 hour that we had the room for) described and explained to us the current landscape of the research world. In his analysis he pointed out a huge shortcoming in the way in which research has been conducted, the main one being non-reproducible results from programmes developed by researchers. For those interested in Research Software Engineering, this was a good overview of what this new career pathway entails, and for others, it showed a fully recognised support academic for researchers who are unfamiliar with programming.
