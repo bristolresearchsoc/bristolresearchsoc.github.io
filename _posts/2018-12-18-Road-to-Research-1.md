@@ -6,9 +6,8 @@ date: 2018-12-18
 author: Kheeran Naidu
 permalink: /:year/:month/:day/:title.html
 ---
-
 “Researchers, funders and universities now recognise that UK research depends on software. 92% of researchers depend on software to conduct and analyse their research. 56% of researchers develop their own research software. However, 71% of researchers have no formal training in software development. This has lead to a crisis of reproducibility in many fields, as it is challenging (if not impossible) for many pieces of research or analysis software to run on anything other than the laptops of the original researcher. The career of Research Software Engineering has been created to help address this problem. Research Software Engineers have experience and training in both software engineering and domain research. They help ensure that software is written to be portable and reproducible, enabling software to be sustained between projects and shared with the wider academic and industrial community. In this talk I will discuss what Research Software Engineers do, the growth of RSE groups in universities across the country, and provide some examples of why it is so important to change research culture so that researchers learn and adopt core software engineering best practice (e.g. version control and testing).” -Dr. Christopher Woods
-
+<br>
 
 #### Lecturer:  [Dr. Christopher Woods](https://chryswoods.com)
 #### Date:  18/12/18
