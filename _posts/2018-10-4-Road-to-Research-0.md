@@ -2,7 +2,7 @@
 layout: post
 title: Road to Research - Prologue
 subtitle: Road to Research - Lecture 0
-date: 2018-12-18
+date: 2018-10-4
 author: Kheeran Naidu
 permalink: /:year/:month/:day/:title.html
 ---
