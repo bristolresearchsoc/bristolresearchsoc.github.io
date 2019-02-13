@@ -18,7 +18,7 @@ permalink: /:year/:month/:day/:title.html
 7. Networking over food and drink.
 
 **Benefits:**
-* \- Increase awareness about the society - Many students didn't know that we existed.
+* \- Increase awareness about the society (many students didn't know that we existed)
 * \- Provide a platform for students with like-minded interests to talk to each other.
 * \- Shared our planned activities.
 
