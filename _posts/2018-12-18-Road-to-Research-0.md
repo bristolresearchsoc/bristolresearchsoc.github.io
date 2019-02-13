@@ -9,13 +9,13 @@ permalink: /:year/:month/:day/:title.html
 **Objective:** Introduction to the society and a bit of networking.
 
 **General Idea:**
-* Introduction to the society and what it does.
-* Introduction to the committee members.
-* An introduction to what research is.
-* Why research is so important.
-* The opportunities available to students in the University of Bristol
-* Quiz.
-* Networking over food and drink.
+1. Introduction to the society and what it does.
+2. Introduction to the committee members.
+3. An introduction to what research is.
+4. Why research is so important.
+5. The opportunities available to students in the University of Bristol
+6. Quiz.
+7. Networking over food and drink.
 
 **Benefits:**
 * Increase awareness about the society - Many students didn't know that we existed.
