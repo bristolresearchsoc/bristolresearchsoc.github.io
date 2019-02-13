@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Software Engineering - A new academic career pathway
-subtitle: upcoming lecture talks by prominent figures in research
+subtitle: Road to Research - Lecture 1
 date: 2018-12-18
 author: Kheeran Naidu
 permalink: /:year/:month/:day/:title.html
