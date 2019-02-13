@@ -232,7 +232,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #feature {
   background: url("../img/featue-bg.jpg");
-  background-position: 0% 0%;
+  background-position: 50% 94px;
   width: 100%;
   display: block;
   position: relative;
@@ -250,7 +250,7 @@ font header .navbar-default .navbar-nav li a:hover {
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 0px 0;
+  padding: 100px 0;
 }
 #feature h2 {
   font-size: 28px;
