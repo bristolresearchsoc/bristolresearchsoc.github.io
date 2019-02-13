@@ -26,4 +26,4 @@ permalink: /:year/:month/:day/:title.html
 * \- The event was oversubscribed, 100+ people came and we had to use MVB 1.11 as well due to health and safety regulations.
 * \- There was huge interest and it was good affirmation of the engagement that we will be getting this academic year.
 
-\* Images of the event are [here](https://bristolresearchsoc.github.io/events/)
+\* Images of the event are [here](https://bristolresearchsoc.github.io/events/) and the facebook event is [here](https://www.facebook.com/events/1819683318148153/).
