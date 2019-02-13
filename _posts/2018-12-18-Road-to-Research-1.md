@@ -21,4 +21,4 @@ The lecturer briefly (in the 1 hour that we had the room for) described and expl
 
 The event was a successful one. Approx 20-30 students attended and there was good interaction with the lecturer before and after the event. Even though we didn't have the budget for food/drinks after the event (which would have increased the turnout), it was excellent that there were many students interested in Research Software Engineering and the implications this new career has in research.
 
-Slides from the lecture are available at [here](https://chryswoods.com/talks/index.html).
+Slides from the lecture are available [here](https://chryswoods.com/talks/index.html).
