@@ -3,7 +3,7 @@
  * In airspace, it is called style.css
  * However, style.css now holds additional styles for this jekyll port. (Not written by ThemeFisher)
  * The original style.css is now called airspace.css
- * 
+ *
  */
 
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
@@ -239,7 +239,7 @@ font header .navbar-default .navbar-nav li a:hover {
   overflow: visible;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: left center;
   background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
