@@ -7,7 +7,7 @@ author: Farrel Zulkarnaen
 permalink: /:year/:month/:day/:title.html
 ---
 
-Following our first meeting in 'Road to Research,' Here is a reminder, 
+Following our first meeting in 'Road to Research,' Here is a reminder,
 on the professors and lecturers who have agreed to give a talk soon.
 
 1. Professor Alan Champneys - Engineering Mathematics
@@ -16,21 +16,21 @@ on the professors and lecturers who have agreed to give a talk soon.
 4. Professor Sandu Popescu - Physics
 5. Professor Christoph Wulfing - Cellular and Molecular Medicine
 
-## Professor Alan Champneys 
+## Professor Alan Champneys
 
-He is the current Head of Department of the School of Engineering Mathematics. As a 
-professor of Applied Non-linear Mathematics, his main area of research is in 
+He is the current Head of Department of the School of Engineering Mathematics. As a
+professor of Applied Non-linear Mathematics, his main area of research is in
 Applied dynamical systems, and Numerical bifurcation theory.
 
 ## Professor Anthony Davis
 
-He is a professor of Supramolecular Chemistry, and the Co-founder of Ziylo, a bio 
+He is a professor of Supramolecular Chemistry, and the Co-founder of Ziylo, a bio
 startup from Bristol which was sold for $800 million dollars.
 
 ## Professor Walther Schwarzacher
 
 A Professor of Physics in the University of Bristol with specific research in magnetic
-systems. He is currently studying interactions between magnetic nanoparticles, 
+systems. He is currently studying interactions between magnetic nanoparticles,
 and electron transport in devices combining magnetic and organic materials.
 
 ## Professor Sandu Popescu
@@ -40,7 +40,7 @@ Check out his Wikipedia page [here][jekyll-docs].
 
 ## Professor Christoph Wulfing
 
-Professor of Cellular and Molecular Wulfing. His research area is in spatitemporal 
+Professor of Cellular and Molecular Wulfing. His research area is in spatitemporal
 organisation of T-cell signalling
 
 Information regarding when each talk will be held will come out soon. So keep in touch!
